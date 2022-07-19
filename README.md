@@ -1,3 +1,3 @@
 # odin-recipes
 
-created a simple recipe website using html for The Odin Project
+the odin project foundations; create basic html site using links,images,lists,headers,paragraphs
